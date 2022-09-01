@@ -15,4 +15,6 @@ If you are needing to find something for a specific date. The filters allow you 
 
 
 
-# Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+# Summary: 
+
+The only draw back that this deployment has is the fact that you need to input your information into seperate filter lines. There should be one genenral search bar for all the filters that are being used. 
