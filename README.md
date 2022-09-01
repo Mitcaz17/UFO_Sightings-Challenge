@@ -2,7 +2,7 @@
 
 # Overview of Project
 
-##Purpose
+## Purpose
 
 The purpose of this analysis is to be able to get a clear picture of all the UFO sightings around the world. This is detemided by date, location and also what was seen during the time. The table allows you to chose not only a specific date but also, lets you search by specific locations.
 
